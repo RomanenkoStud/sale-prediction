@@ -1,0 +1,97 @@
+City,Month,Orders
+New York,2021-05-01,70
+New York,2021-06-01,90
+New York,2021-07-01,110
+New York,2021-08-01,130
+New York,2021-09-01,150
+New York,2021-10-01,170
+New York,2021-11-01,190
+New York,2021-12-01,200
+New York,2022-01-01,100
+New York,2022-02-01,120
+New York,2022-03-01,150
+New York,2022-04-01,180
+New York,2022-05-01,200
+New York,2022-06-01,220
+New York,2022-07-01,250
+New York,2022-08-01,280
+Los Angeles,2022-01-01,100
+Los Angeles,2022-02-01,120
+Los Angeles,2022-03-01,150
+Los Angeles,2022-04-01,70
+Los Angeles,2022-05-01,200
+Los Angeles,2022-06-01,230
+Los Angeles,2022-07-01,150
+Los Angeles,2022-08-01,150
+San Francisco,2021-03-01,8
+San Francisco,2021-04-01,10
+San Francisco,2021-05-01,12
+San Francisco,2021-06-01,20
+San Francisco,2021-07-01,25
+San Francisco,2021-08-01,50
+San Francisco,2021-09-01,100
+San Francisco,2021-10-01,120
+San Francisco,2021-11-01,130
+San Francisco,2021-12-01,135
+San Francisco,2022-01-01,140
+San Francisco,2022-02-01,120
+San Francisco,2022-03-01,1500
+San Francisco,2022-04-01,710
+San Francisco,2022-05-01,200
+San Francisco,2022-06-01,230
+San Francisco,2022-07-01,440
+San Francisco,2022-08-01,980
+Kharkiv,2021-03-01,10
+Kharkiv,2021-04-01,20
+Kharkiv,2021-05-01,30
+Kharkiv,2021-06-01,40
+Kharkiv,2021-07-01,50
+Kharkiv,2021-08-01,60
+Kharkiv,2021-09-01,70
+Kharkiv,2021-10-01,80
+Kharkiv,2021-11-01,89
+Kharkiv,2021-12-01,98
+Kharkiv,2022-01-01,107
+Kharkiv,2022-02-01,116
+Kharkiv,2022-03-01,125
+Kharkiv,2022-04-01,120
+Kharkiv,2022-05-01,110
+Kharkiv,2022-06-01,100
+Kharkiv,2022-07-01,90
+Kharkiv,2022-08-01,80
+London,2021-03-01,10
+London,2021-04-01,20
+London,2021-05-01,30
+London,2021-06-01,40
+London,2021-07-01,50
+London,2021-08-01,60
+London,2021-09-01,70
+London,2021-10-01,80
+London,2021-11-01,90
+London,2021-12-01,100
+London,2022-01-01,110
+London,2022-02-01,120
+London,2022-03-01,130
+London,2022-04-01,140
+London,2022-05-01,150
+London,2022-06-01,160
+London,2022-07-01,190
+London,2022-08-01,200
+Tokyo,2021-03-01,1000
+Tokyo,2021-04-01,875
+Tokyo,2021-05-01,724
+Tokyo,2021-06-01,504
+Tokyo,2021-07-01,455
+Tokyo,2021-08-01,435
+Tokyo,2021-09-01,421
+Tokyo,2021-10-01,399
+Tokyo,2021-11-01,287
+Tokyo,2021-12-01,350
+Tokyo,2022-01-01,290
+Tokyo,2022-02-01,245
+Tokyo,2022-03-01,205
+Tokyo,2022-04-01,150
+Tokyo,2022-05-01,140
+Tokyo,2022-06-01,120
+Tokyo,2022-07-01,100
+Tokyo,2022-08-01,55
