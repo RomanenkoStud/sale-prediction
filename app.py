@@ -52,13 +52,11 @@ model.add(Dense(64, activation='relu', input_dim=X_scaled.shape[1]))
 model.add(Dense(64, activation='relu'))
 model.add(Dense(1, activation='tanh'))
 
+# Compile the model
 model.compile(loss='mean_squared_error', optimizer=Adam(learning_rate=0.0001))
 
-# Compile the model
-model.compile(loss='mean_squared_error', optimizer='adam')
-
 # Train the model
-model.fit(X_scaled, y_scaled, epochs=100, batch_size=32, verbose=1)
+model.fit(X_scaled, y_scaled, epochs=1000, batch_size=32, verbose=1)
 
 # Iterate over the target cities
 for target_city in target_cities:
